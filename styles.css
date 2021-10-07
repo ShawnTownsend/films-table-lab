@@ -26,16 +26,20 @@ table {
 
 #synopsis {
     background-color: white;
+    font-size: small;
 }
 
 td {
     padding: 10px;
     background-color: gray;
+    font-size: larger;
 }
 
 th {
     background-color: #333333;
     color: white;
+    border-color: white;
+    padding: 10px;
 }
 
 [rowspan = "2"]{
