@@ -37,3 +37,11 @@ th {
     background-color: #333333;
     color: white;
 }
+
+[rowspan = "2"]{
+    font-weight: bold;
+}
+
+.year {
+    font-style: italic;
+}
