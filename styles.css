@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    font-family: sans-serif
+}
+
+main {
+    margin: 0 auto;
+    width: 1000px;
+    height: 670px;
+}
+
+header {
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 30px;
+    height: 100%;
+}
+
+#synopsis {
+    background-color: white;
+}
+
+td {
+    padding: 10px;
+    background-color: gray;
+}
+
+th {
+    background-color: #333333;
+    color: white;
+}
